@@ -1,4 +1,4 @@
-name: ss23_datafusion
+name: aim_datafusion
 channels:
     - conda-forge
 dependencies:

@@ -1,4 +1,4 @@
-# ss23_datafusion
+# aim_datafusion
 Contains lab exercises of datafusion lab
 
 ## Usage
