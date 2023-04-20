@@ -1,0 +1,9 @@
+name: ss23_datafusion
+channels:
+    - conda-forge
+dependencies:
+  - black
+  - flake8
+  - ipykernel
+  - numpy
+  - pandas
