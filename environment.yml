@@ -5,6 +5,7 @@ dependencies:
   - black
   - flake8
   - ipykernel
+  - ipympl
   - matplotlib
   - numpy
   - pandas
